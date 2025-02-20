@@ -76,6 +76,10 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
             self.player?.stop()
             //MARK: - Hello DEVELOP
             self.player?.stop()
+            //MARK: - Hello DEVELOP
+            //MARK: - Hello DEVELOP
+            //MARK: - Hello DEVELOP
+            //MARK: - Hello DEVELOP
         }
     }
     
