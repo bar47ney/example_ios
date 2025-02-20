@@ -87,6 +87,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         playerLayer.frame = view.bounds
         view.layer.addSublayer(playerLayer)
         
+        //MARK: - Player
         player.play()
     }
     
