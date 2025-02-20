@@ -74,6 +74,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 5){
             self.player?.stop()
+            //MARK: - Hello DEVELOP
+            self.player?.stop()
         }
     }
     
